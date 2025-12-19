@@ -1,6 +1,6 @@
 # cmos_inverter
-## REG NUM :
-## NAME :
+## REG NUM :25011858
+## NAME :Aruna Devi V M
 ## EXPERIMENT 2.a Design CMOS inverter and transient and OP analysis
 
 ## Aim: To Design CMOS inverter and transient and OP analysis.
@@ -51,6 +51,7 @@ Netlist and Run in the simulation window to start the Simulation.
 When simulation finishes, the transient automatically will be popped up along file.
  
 ## Waveforms:
+<img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/87dadc70-bf36-43f0-9c7c-faa6975b6952" />
 
 
 ## RESULTS:
